@@ -11,6 +11,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "export_FeatureDll", "export
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RoundHoleModelGter", "RoundHoleModelGetr\RoundHoleModelGetr.vcxproj", "{7E774ABD-7CDB-405F-BFFC-19B68C1EAB08}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gcode_Maker", "Gcode_Maker\Gcode_Maker.vcxproj", "{C3013565-E26A-44FC-9AB6-4F581A47D171}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RoundHoleGcodeMaker", "RoundHoleGcodeMaker\RoundHoleGcodeMaker.vcxproj", "{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STEPNCObj", "STEPNCObj\STEPNCObj.vcxproj", "{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "centerdrill", "centerdrill\centerdrill.vcxproj", "{3377523F-0896-41A0-988E-A4473A441CBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug Dll|Win32 = Debug Dll|Win32
@@ -51,6 +59,38 @@ Global
 		{7E774ABD-7CDB-405F-BFFC-19B68C1EAB08}.Release|Win32.Build.0 = Release|Win32
 		{7E774ABD-7CDB-405F-BFFC-19B68C1EAB08}.Released Dll|Win32.ActiveCfg = Release|Win32
 		{7E774ABD-7CDB-405F-BFFC-19B68C1EAB08}.Released Dll|Win32.Build.0 = Release|Win32
+		{C3013565-E26A-44FC-9AB6-4F581A47D171}.Debug Dll|Win32.ActiveCfg = Debug|Win32
+		{C3013565-E26A-44FC-9AB6-4F581A47D171}.Debug Dll|Win32.Build.0 = Debug|Win32
+		{C3013565-E26A-44FC-9AB6-4F581A47D171}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C3013565-E26A-44FC-9AB6-4F581A47D171}.Debug|Win32.Build.0 = Debug|Win32
+		{C3013565-E26A-44FC-9AB6-4F581A47D171}.Release|Win32.ActiveCfg = Release|Win32
+		{C3013565-E26A-44FC-9AB6-4F581A47D171}.Release|Win32.Build.0 = Release|Win32
+		{C3013565-E26A-44FC-9AB6-4F581A47D171}.Released Dll|Win32.ActiveCfg = Release|Win32
+		{C3013565-E26A-44FC-9AB6-4F581A47D171}.Released Dll|Win32.Build.0 = Release|Win32
+		{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}.Debug Dll|Win32.ActiveCfg = Debug|Win32
+		{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}.Debug Dll|Win32.Build.0 = Debug|Win32
+		{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}.Debug|Win32.Build.0 = Debug|Win32
+		{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}.Release|Win32.ActiveCfg = Release|Win32
+		{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}.Release|Win32.Build.0 = Release|Win32
+		{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}.Released Dll|Win32.ActiveCfg = Release|Win32
+		{92C1C1E5-B97D-4573-8C4F-5A1616E2424F}.Released Dll|Win32.Build.0 = Release|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Debug Dll|Win32.ActiveCfg = Debug|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Debug Dll|Win32.Build.0 = Debug|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Debug|Win32.Build.0 = Debug|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Release|Win32.ActiveCfg = Release|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Release|Win32.Build.0 = Release|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Released Dll|Win32.ActiveCfg = Release|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Released Dll|Win32.Build.0 = Release|Win32
+		{3377523F-0896-41A0-988E-A4473A441CBB}.Debug Dll|Win32.ActiveCfg = Debug|Win32
+		{3377523F-0896-41A0-988E-A4473A441CBB}.Debug Dll|Win32.Build.0 = Debug|Win32
+		{3377523F-0896-41A0-988E-A4473A441CBB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3377523F-0896-41A0-988E-A4473A441CBB}.Debug|Win32.Build.0 = Debug|Win32
+		{3377523F-0896-41A0-988E-A4473A441CBB}.Release|Win32.ActiveCfg = Release|Win32
+		{3377523F-0896-41A0-988E-A4473A441CBB}.Release|Win32.Build.0 = Release|Win32
+		{3377523F-0896-41A0-988E-A4473A441CBB}.Released Dll|Win32.ActiveCfg = Release|Win32
+		{3377523F-0896-41A0-988E-A4473A441CBB}.Released Dll|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

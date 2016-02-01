@@ -13,9 +13,7 @@ d:\stepncmaster\stepncmaster\debug\moc_stepncmaster.obj
 d:\stepncmaster\stepncmaster\debug\moc_processplanning.obj
 d:\stepncmaster\stepncmaster\debug\moc_myglwidget.obj
 d:\stepncmaster\stepncmaster\debug\moc_featureidentify.obj
-d:\stepncmaster\stepncmaster\debug\moc_feature.obj
 d:\stepncmaster\stepncmaster\debug\featureidenyify.obj
-d:\stepncmaster\stepncmaster\debug\feature.obj
 d:\stepncmaster\stepncmaster\debug\qrc_stepncmaster.obj
 d:\stepncmaster\stepncmaster\generatedfiles\debug\moc_stepncmaster.cpp
 d:\stepncmaster\stepncmaster\generatedfiles\ui_stepncmaster.h
@@ -24,11 +22,10 @@ d:\stepncmaster\stepncmaster\generatedfiles\debug\moc_processplanning.cpp
 d:\stepncmaster\stepncmaster\generatedfiles\debug\moc_treemodelmanager.cpp
 d:\stepncmaster\stepncmaster\generatedfiles\debug\moc_myglwidget.cpp
 d:\stepncmaster\stepncmaster\generatedfiles\debug\moc_steptostl.cpp
+d:\stepncmaster\stepncmaster\generatedfiles\debug\moc_featureidentify.cpp
 d:\stepncmaster\stepncmaster\generatedfiles\qrc_stepncmaster.cpp
 d:\stepncmaster\stepncmaster\generatedfiles\ui_processplanning.h
 d:\stepncmaster\stepncmaster\generatedfiles\ui_workstepplan.h
-d:\stepncmaster\stepncmaster\generatedfiles\debug\moc_featureidentify.cpp
-d:\stepncmaster\stepncmaster\generatedfiles\debug\moc_feature.cpp
 d:\stepncmaster\bin\stepncmaster.ilk
 d:\stepncmaster\bin\stepncmaster.exe
 d:\stepncmaster\bin\stepncmaster.pdb
