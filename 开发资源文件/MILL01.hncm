@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mill>
+    <stepOrder>
+        <stepOrderItem>CenterDrill</stepOrderItem>
+        <stepOrderItem>RectangularPlate</stepOrderItem>
+    </stepOrder>
+    <centerDrill>
+        <workItem>0</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>0</workItem>
+        <workItem>主轴正转</workItem>
+        <workItem>补偿取消</workItem>
+        <workItem>0</workItem>
+        <workItem>无停顿</workItem>
+        <workItem>初始平面</workItem>
+        <workItem>绝对编程</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>1</workItem>
+        <workItem>0</workItem>
+    </centerDrill>
+    <deepDrill/>
+    <tap/>
+    <lineDril/>
+    <circleDrill/>
+    <arcDrill/>
+    <chessBoardDrill/>
+    <rectangularPlate>
+        <workItem>0</workItem>
+        <workItem>100.0000</workItem>
+        <workItem>0</workItem>
+        <workItem>主轴正转</workItem>
+        <workItem>补偿取消</workItem>
+        <workItem>0</workItem>
+        <workItem>R平面</workItem>
+        <workItem>绝对编程</workItem>
+        <workItem>精加工</workItem>
+        <workItem>1.0000</workItem>
+        <workItem>2.0000</workItem>
+        <workItem>5.0000</workItem>
+        <workItem>6.0000</workItem>
+        <workItem>-10.0000</workItem>
+        <workItem>6.0000</workItem>
+        <workItem>8.0000</workItem>
+        <workItem>50.0000</workItem>
+        <workItem>60.0000</workItem>
+        <workItem>5.0000</workItem>
+        <workItem>0.0000</workItem>
+        <workItem>66.0000</workItem>
+        <workItem>88.0000</workItem>
+        <workItem>99.0000</workItem>
+        <workItem>77.0000</workItem>
+        <workItem>55.0000</workItem>
+        <workItem>第一轴单向</workItem>
+        <workItem>5.0000</workItem>
+    </rectangularPlate>
+    <arcGroove/>
+    <circularGroove/>
+    <rectangularBoss/>
+    <circularBoss/>
+    <contourBoss/>
+    <rectangularCavity/>
+    <circularCavity/>
+    <cycloneGroove/>
+    <contourCavity/>
+    <carveLetter/>
+    <mdi/>
+    <swivelCycle/>
+    <code>
+        <workItem>G28G91Z2
+M06T0
+S0M03
+G49Z0
+G00X0Y0
+G81G98G90X0Y0Z0R0L1P0F0</workItem>
+        <workItem>G28G91Z2
+M06T0
+S0M03
+G49Z5
+G00X1Y2
+G186G99G90D2R6Z-10X6Y8N50W60I5A0O99Q77K55C2V5F100</workItem>
+    </code>
+</Mill>

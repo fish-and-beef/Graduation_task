@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Templet>
+    <operationName>
+        <stepOrderItem>矩形型腔</stepOrderItem>
+    </operationName>
+    <operationData>
+        <dataItem>800</dataItem>
+        <dataItem>1000</dataItem>
+        <dataItem>正转</dataItem>
+        <dataItem>打开</dataItem>
+        <dataItem>绝对编程</dataItem>
+        <dataItem>取消补偿</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>10</dataItem>
+        <dataItem>5</dataItem>
+        <dataItem>初始平面</dataItem>
+        <dataItem>1平底刀</dataItem>
+        <dataItem>5</dataItem>
+        <dataItem>0.00</dataItem>
+        <dataItem>0.00</dataItem>
+        <dataItem>-10.00</dataItem>
+        <dataItem>60.00</dataItem>
+        <dataItem>40.00</dataItem>
+        <dataItem>5.00</dataItem>
+        <dataItem>0.0</dataItem>
+        <dataItem>粗加工</dataItem>
+        <dataItem>2</dataItem>
+        <dataItem>0.5</dataItem>
+        <dataItem>0.5</dataItem>
+        <dataItem>0.5</dataItem>
+        <dataItem>同向切削</dataItem>
+    </operationData>
+</Templet>

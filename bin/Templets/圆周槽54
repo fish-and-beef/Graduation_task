@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Templet>
+    <operationName>
+        <stepOrderItem>圆周槽</stepOrderItem>
+    </operationName>
+    <operationData>
+        <dataItem>800</dataItem>
+        <dataItem>1000</dataItem>
+        <dataItem>正转</dataItem>
+        <dataItem>打开</dataItem>
+        <dataItem>绝对编程</dataItem>
+        <dataItem>取消补偿</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>初始平面</dataItem>
+        <dataItem>5圆角刀</dataItem>
+        <dataItem>2.161</dataItem>
+        <dataItem>20.00</dataItem>
+        <dataItem>0.00</dataItem>
+        <dataItem>-10.00</dataItem>
+        <dataItem>25.20</dataItem>
+        <dataItem>7.50</dataItem>
+        <dataItem>16.25</dataItem>
+        <dataItem>5.5658</dataItem>
+        <dataItem>0.00</dataItem>
+        <dataItem>1</dataItem>
+        <dataItem>粗加工</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>0</dataItem>
+        <dataItem>同向切削</dataItem>
+    </operationData>
+</Templet>

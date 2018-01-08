@@ -1,0 +1,6 @@
+系统开发环境介绍：
+1、安装Visual Studio 2013；
+2、安装Qt qt-opensource-windows-x86-msvc2013-5.7.0 版本；
+3、安装qt-vs-addin插件；
+4、安装ST-Developer 16.0（stdev_pe_16_0.msi）开发工具；说明：为个人免费版开发工具，安装此开发工具需要发布公司授权秘钥，必须先和STEP Tools公司联系（http://www.steptools.com/sln/step/）；
+5、打开STEPNCMaster.sln项目解决方案继续开发。
