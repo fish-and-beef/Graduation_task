@@ -5,6 +5,14 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STEPNCMaster", "STEPNCMaster\STEPNCMaster.vcxproj", "{98A5E404-84D0-4FA9-9734-6DE27088FFFB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "featureInfo_Gter", "featureInfo_Gter\featureInfo_Gter.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "export_FeatureDll", "export_FeatureDll\export_FeatureDll.vcxproj", "{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThroughHoleModelGter", "ThroughHoleModelGetr\ThroughHoleModelGetr.vcxproj", "{8410F1C5-2320-4D8C-85CD-904803544499}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STEPNCObj", "STEPNCObj\STEPNCObj.vcxproj", "{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug Dll|Win32 = Debug Dll|Win32
@@ -21,6 +29,38 @@ Global
 		{98A5E404-84D0-4FA9-9734-6DE27088FFFB}.Release|Win32.Build.0 = Release|Win32
 		{98A5E404-84D0-4FA9-9734-6DE27088FFFB}.Released Dll|Win32.ActiveCfg = Released Dll|Win32
 		{98A5E404-84D0-4FA9-9734-6DE27088FFFB}.Released Dll|Win32.Build.0 = Released Dll|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug Dll|Win32.ActiveCfg = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug Dll|Win32.Build.0 = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|Win32.Build.0 = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|Win32.ActiveCfg = Release|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|Win32.Build.0 = Release|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Released Dll|Win32.ActiveCfg = Release|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Released Dll|Win32.Build.0 = Release|Win32
+		{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}.Debug Dll|Win32.ActiveCfg = Debug|Win32
+		{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}.Debug Dll|Win32.Build.0 = Debug|Win32
+		{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}.Debug|Win32.Build.0 = Debug|Win32
+		{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}.Release|Win32.ActiveCfg = Release|Win32
+		{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}.Release|Win32.Build.0 = Release|Win32
+		{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}.Released Dll|Win32.ActiveCfg = Release|Win32
+		{928D4BA8-AB33-4093-A6B0-DD26C6E1570D}.Released Dll|Win32.Build.0 = Release|Win32
+		{8410F1C5-2320-4D8C-85CD-904803544499}.Debug Dll|Win32.ActiveCfg = Debug|Win32
+		{8410F1C5-2320-4D8C-85CD-904803544499}.Debug Dll|Win32.Build.0 = Debug|Win32
+		{8410F1C5-2320-4D8C-85CD-904803544499}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8410F1C5-2320-4D8C-85CD-904803544499}.Debug|Win32.Build.0 = Debug|Win32
+		{8410F1C5-2320-4D8C-85CD-904803544499}.Release|Win32.ActiveCfg = Release|Win32
+		{8410F1C5-2320-4D8C-85CD-904803544499}.Release|Win32.Build.0 = Release|Win32
+		{8410F1C5-2320-4D8C-85CD-904803544499}.Released Dll|Win32.ActiveCfg = Release|Win32
+		{8410F1C5-2320-4D8C-85CD-904803544499}.Released Dll|Win32.Build.0 = Release|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Debug Dll|Win32.ActiveCfg = Debug|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Debug Dll|Win32.Build.0 = Debug|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Debug|Win32.Build.0 = Debug|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Release|Win32.ActiveCfg = Release|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Release|Win32.Build.0 = Release|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Released Dll|Win32.ActiveCfg = Release|Win32
+		{A9C945B1-AE00-4E9D-A3C8-153EB6E4251E}.Released Dll|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
